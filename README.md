@@ -1,1 +1,1 @@
-#gjg
+# This is a game called the perfect guess.
